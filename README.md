@@ -12,21 +12,22 @@ Outcaxt is a futuristic and secure communication platform that leverages **Pytho
 - **Websockets**: Real-time communication between server and clients.
 - **Cryptography**: For secure data transmission and storage.
 
-## Setup Instructions
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/thy-rohinish/Outcaxt.git
-cd Outcaxt
-
-Project Goals
+### Project Goals
 Build a secure, decentralized communication system.
 Implement advanced encryption using modern cryptography.
 Explore peer-to-peer networking and decentralized internet
 
-Contributions
+### Contributions
 Feel free to fork this project, raise issues, or submit pull requests.
 
-License
-This project is licensed under the MIT License.
+### License
+This project is licens,ed under the MIT License.
 
+## Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/thy-rohinish/Outcaxt.git
+cd Outcaxt
