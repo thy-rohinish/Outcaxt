@@ -13,15 +13,15 @@ Outcaxt is a futuristic and secure communication platform that leverages **Pytho
 - **Cryptography**: For secure data transmission and storage.
 
 
-### Project Goals
+## Project Goals
 Build a secure, decentralized communication system.
 Implement advanced encryption using modern cryptography.
 Explore peer-to-peer networking and decentralized internet
 
-### Contributions
+## Contributions
 Feel free to fork this project, raise issues, or submit pull requests.
 
-### License
+## License
 This project is licens,ed under the MIT License.
 
 ## Setup Instructions
