@@ -1,0 +1,9 @@
+[package]
+name = "outcaxt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+tungstenite = "0.15.0"  # Check for the latest version
+url = "2.2"              # For URL parsing
