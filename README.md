@@ -10,11 +10,11 @@ Outcaxt is a groundbreaking initiative that leverages state-of-the-art technolog
 
 
 ### 🔍 Why Outcaxt is Unique
-**Uncompromised Security:** Employing cutting-edge encryption methods to guarantee data privacy and secure communication channels.
-**Truly Decentralized:** Designed to operate without centralized control, making it resistant to censorship, surveillance, and attacks.
-**Mesh Networking Excellence:** Utilizes advanced mesh networking to enable a resilient peer-to-peer communication network.
-**Blockchain Integration:** Incorporates decentralized blockchain principles to provide data integrity, tamper-proof communication, and a transparent system.
-**User-Driven:** Built with the ethos of open-source development, enabling contributions from a global community of developers and enthusiasts.
+- **Uncompromised Security:** Employing cutting-edge encryption methods to guarantee data privacy and secure communication channels.
+- **Truly Decentralized:** Designed to operate without centralized control, making it resistant to censorship, surveillance, and attacks.
+- **Mesh Networking Excellence:** Utilizes advanced mesh networking to enable a resilient peer-to-peer communication network.
+- **Blockchain Integration:** Incorporates decentralized blockchain principles to provide data integrity, tamper-proof communication, and a transparent system.
+- **User-Driven:** Built with the ethos of open-source development, enabling contributions from a global community of developers and enthusiasts.
 
 
 
