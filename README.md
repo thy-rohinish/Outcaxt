@@ -11,10 +11,10 @@ The objective of the Outcaxt project is to create a decentralized communication 
 4. **Foster an Open Ecosystem**: Build upon and contribute to open-source technologies, enabling collaboration with global developers and researchers to continually enhance security features and user experience.
 5. **Ensure Resilience**: Implement a self-healing architecture that allows the system to adapt and reroute data seamlessly in the event of node failures or attacks, ensuring continuous service availability
 
-##Vision
+## Vision
 Outcaxt envisions a future where users have full control over their data, communication, and online identities, free from the constraints of centralized authorities and surveillance, fostering a more secure and equitable digital environment.
 
-##Overview
+## Overview
 Outcaxt is a decentralized platform for secure communication and storage. It uses strong encryption, blockchain, and mesh networking to keep user data private and untraceable. With a peer-to-peer system, Outcaxt removes the risks of centralized control, making it more secure and reliable. As an open-source project, it invites global collaboration to create a future where users have complete control over their data and communication.
 
 
