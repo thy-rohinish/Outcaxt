@@ -68,10 +68,10 @@ This project is licensed under the MIT License—a permissive open-source licens
 ## 🤝 Contributions
 Outcaxt thrives on collaboration. Whether you're a developer, cryptographer, designer, or just someone passionate about privacy, your contributions are welcome! Here’s how you can get involved:
 
-Fork the repository
-Create a feature branch 
-Commit your changes 
-Push to the branch 
+- Fork the repository
+- Create a feature branch 
+- Commit your changes 
+- Push to the branch 
 
 
 
