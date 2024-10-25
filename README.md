@@ -19,11 +19,11 @@ Outcaxt is a groundbreaking initiative that leverages state-of-the-art technolog
 
 
 ## 🎯 Project Goals
-**Empower Privacy:** Develop a communication platform that is fully end-to-end encrypted, leaving no chance for unauthorized access.
-**Decentralize the Internet:** Build a decentralized mesh network that eliminates single points of failure and control, fostering a robust and resilient infrastructure.
-**Scale Effortlessly:** From secure messaging to decentralized file sharing and private browsing, Outcaxt is scalable to grow into a decentralized internet ecosystem.
-**Foster Open Collaboration:** Encourage contributions from the open-source community to ensure constant innovation and high-quality development.
-**Build Resilience:**Create a self-healing network that can withstand disruptions and adapt seamlessly, ensuring uninterrupted service.
+- **Empower Privacy:** Develop a communication platform that is fully end-to-end encrypted, leaving no chance for unauthorized access.
+- **Decentralize the Internet:** Build a decentralized mesh network that eliminates single points of failure and control, fostering a robust and resilient infrastructure.
+- **Scale Effortlessly:** From secure messaging to decentralized file sharing and private browsing, Outcaxt is scalable to grow into a decentralized internet ecosystem.
+- **Foster Open Collaboration:** Encourage contributions from the open-source community to ensure constant innovation and high-quality development.
+- **Build Resilience:**Create a self-healing network that can withstand disruptions and adapt seamlessly, ensuring uninterrupted service.
 
 
 
